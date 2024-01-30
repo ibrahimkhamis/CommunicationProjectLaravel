@@ -25,7 +25,7 @@
             @endauth
             
             <li>
-                <a href="{{ route('post') }}" class="p-3">Post</a>
+                <a href="{{ route('post') }}" class="p-3">Posts</a>
             </li>
         </ul>
 
